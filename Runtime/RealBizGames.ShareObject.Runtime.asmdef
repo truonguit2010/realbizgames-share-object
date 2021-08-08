@@ -1,0 +1,16 @@
+{
+    "name": "RealBizGames.ShareObject.Runtime",
+    "references": [
+        "GUID:90c8541d9c2034fda85c2d78aa5621d5",
+        "GUID:4030c65478b164aac9fcfa22c07f4ed0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
